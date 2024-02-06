@@ -2,5 +2,5 @@ var a
 var b
 
 if a > b
-  then  a
-  b;
+  then  a + 1
+  else b -1
