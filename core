@@ -1,3 +1,5 @@
 var a
 var b
 set function( blob)
+if var a < var b
+then blob
